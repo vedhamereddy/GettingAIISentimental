@@ -17,7 +17,7 @@
 
 **How Users Can Get Started With the Project:**
 
-> (idk man just run the code i guess)
+> Our program can run on any platform that supports python and all that is required is to type in the authorization code given for the data set.  
 
 
 
