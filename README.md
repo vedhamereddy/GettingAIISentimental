@@ -1,7 +1,7 @@
 # GettingAIISentimental
 
 **What the Project Does:** 
-> Our program is an AI model which is designed to take a set of data and determine whether the sentences within the collection, demonstrate a positive or negative sentiment with __ accuracy. Our program in particular is unique due to our "hybrid algorithm", in which we combined Convolutional Neural Networks, K Nearest Neighbors, and Support Vector Machine algorithms together. With each method being more accurate than the last, we were able to obtain precise results with great efficiency. 
+> Our program is an AI model which is designed to take a set of data and determine whether the sentences within the collection, demonstrate a positive or negative sentiment. Our program in particular is unique due to our "hybrid algorithm", in which we combined Convolutional Neural Networks, K Nearest Neighbors, and Support Vector Machine algorithms together. With each method being more accurate than the last, we were able to obtain precise results with great efficiency. 
 
 
 
@@ -23,7 +23,7 @@
 
 **Challenges We Faced:**
 
-> 1. Working with large quantities of data proved to be a challenge, which we eventually overcame with dividing the procedure of data cleaning into smaller components, and eventually (coming to ___ accuracy). 
+> 1. Working with large quantities of data proved to be a challenge, which we eventually overcame with dividing the procedure of data cleaning into smaller components.
 
 > 2. Combining the three different methods of sentiment analysis to form our hybrid model tended to be very complex and convoluted especially as our team members did not already have previous experience with AI, but the effort and struggle eventually paid off when we developed our final finished product. 
 
