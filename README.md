@@ -25,7 +25,7 @@
 
 > 1. Working with large quantities of data proved to be a challenge, which we eventually overcame with dividing the procedure of data cleaning into smaller components.
 
-> 2. Combining the three different methods of sentiment analysis to form our hybrid model tended to be very complex and convoluted especially as our team members did not already have previous experience with AI, but the effort and struggle eventually paid off when we developed our final finished product. 
+> 2. Combining two different methods of sentiment analysis to form our hybrid model tended to be very complex and convoluted especially as our team members did not already have previous experience with AI, but the effort and struggle eventually paid off when we developed our final finished product. 
 
 > 3. Another major challenge we had to overcome was dividing tasks among our team members and establishing when we would spend time on our project and when we would be resting. This was the first time any of our team members have done a hackathon and due to our inexperience there tended to be a level of disorganization, but despite that we were able to pull through, and now we’re all ready for hackathons in the future.
 
