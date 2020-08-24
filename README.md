@@ -1,7 +1,7 @@
 # GettingAIISentimental
 
 **What the Project Does:** 
-> Our program is an AI model which is designed to take a set of data and determine whether the sentences within the collection, demonstrate a positive or negative sentiment. Our program in particular is unique due to our "hybrid algorithm", in which we combined Convolutional Neural Networks, K Nearest Neighbors, and Support Vector Machine algorithms together. With each method being more accurate than the last, we were able to obtain precise results with great efficiency. 
+> Our program is an AI model which is designed to take a set of data and determine whether the sentences within the collection, demonstrate a positive or negative sentiment. Our program in particular is unique due to our "hybrid algorithm", in which we combined K Nearest Neighbors, and Support Vector Machine algorithms together. With each method being more accurate than the last, we were able to obtain precise results with great efficiency. 
 
 
 
@@ -28,5 +28,7 @@
 > 2. Combining the three different methods of sentiment analysis to form our hybrid model tended to be very complex and convoluted especially as our team members did not already have previous experience with AI, but the effort and struggle eventually paid off when we developed our final finished product. 
 
 > 3. Another major challenge we had to overcome was dividing tasks among our team members and establishing when we would spend time on our project and when we would be resting. This was the first time any of our team members have done a hackathon and due to our inexperience there tended to be a level of disorganization, but despite that we were able to pull through, and now we’re all ready for hackathons in the future.
+
+*We didn't have the time to write the predictions to CSV but it is functional.*
 
 
